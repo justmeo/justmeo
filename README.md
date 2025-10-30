@@ -78,7 +78,7 @@ $ whoami
 ```python
 class CTFPlayer:
     def __init__(self):
-        self.username = "[Your CTF Username]"
+        self.username = "[Stillme]"
         self.favorite_categories = ["PWN", "Web", "Reverse Engineering"]
         self.ctf_platforms = ["HackTheBox", "TryHackMe", "PicoCTF", "CTFtime"]
         self.flags_captured = "∞"  # Still counting...
@@ -93,9 +93,8 @@ class CTFPlayer:
 ```
 
 🚩 **Recent Competitions:**
-- [Competition Name] - [Rank/Achievement]
-- [Competition Name] - [Rank/Achievement]
-- [Competition Name] - [Rank/Achievement]
+- dp.ctf.ae - [4th Position]
+- [Khalifa ctf] - [4th Position]
 
 ---
 
@@ -158,8 +157,7 @@ void    forty_two_progress(void)
 **Notable Projects:**
 - ✅ **Libft** - Custom C library implementation
 - ✅ **Born2beroot** - System administration & security
-- ✅ **[Current Project]** - [Description]
-- 🔄 **[Ongoing Project]** - [Description]
+- ✅ **[Transendence]** - Web
 
 ---
 
@@ -236,6 +234,6 @@ void    forty_two_progress(void)
 
 <div align="center">
   
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) | Made with ☕ and 💻
+⭐️ From Justmeo(https://github.com/justmeo) | Made with ☕ and 💻
 
 </div>
