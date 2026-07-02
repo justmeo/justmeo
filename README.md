@@ -22,6 +22,7 @@
 
 ## 🏆 CTF Highlights
 
+- 🥇 **1st place — CyberQ CTF 2026** (team of 3)
 - 🥉 **4th place** — dp.ctf.ae
 - 🥉 **4th place** — Khalifa CTF
 - 🎮 Training grounds: HackTheBox · TryHackMe · picoCTF
